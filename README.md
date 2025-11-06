@@ -28,16 +28,17 @@
 
 ## 目录结构
 - src/
-- ├── app.py # 应用入口
-- ├── config.py # 配置文件
-- ├── exts.py # 扩展初始化
-- ├── models.py # 数据模型
-- └── controller/
-- ................└── user.py # 用户相关控制器
+- ├── app.py &emsp;&emsp;&emsp;&emsp;&emsp;# 应用入口
+- ├── config.py &emsp;&emsp;&emsp;&emsp;# 配置文件
+- ├── exts.py &emsp;&emsp;&emsp;&emsp;&emsp;# 扩展初始化
+- ├── models.py &emsp;&emsp;&emsp;&emsp;# 数据模型
+- └── controller/  
+&emsp;&emsp;&emsp;&emsp;    └── user.py &emsp;# 用户相关控制器
 
 # 个人信息：
 - 福州大学学生ID: 832301316
 - 梅努斯大学学生ID: 23124911
 - 姓名：高杰铭
+
 
 
